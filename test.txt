@@ -1,9 +1,4 @@
 Hello Ikbal
 "This is second commit"
 
-<<<<<<< HEAD
-
-"This is 3rd commit"
-=======
 "Updated in remote repo"
->>>>>>> a10165431ba21654e020846695a30154985bc3a4
