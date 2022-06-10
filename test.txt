@@ -2,3 +2,10 @@ Hello Ikbal
 "This is second commit"
 
 "Updated in remote repo"
+<<<<<<< HEAD
+=======
+>>>>>>> a10165431ba21654e020846695a30154985bc3a4
+
+
+This is also from rmeote
+>>>>>>> a4d09cb52cfba79e895064c13d9dc9025cc2f8ec
